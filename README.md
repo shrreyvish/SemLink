@@ -1,8 +1,11 @@
 # Smart Semantic Note Linking and Visualizer
 
 ## Abstract
-[RESEARCH THE INCREASE IN USAGE OF DIGITAL NOTE TAKING AND INSERT STATISTICS HERE]
-[Talk about applications like obsidian and include research on the topics of graphical visualization being helpful in note taking]
+The digital note-taking market is experiencing an explosion in adoption, valued at approximately $9.5 billion in 2024 and projected to reach $23.8 billion by 2029. This growth is driven by a shift from linear filing to "networked thought" via applications like Obsidian and Roam Research. While research suggests that graph-based visualizations can reduce cognitive load by up to 20% through spatial mapping, these systems face a significant scaling bottleneck.
+
+As digital vaults grow to thousands of entries, the manual overhead of creating meaningful links becomes impractical, leading to "digital graveyards" of siloed information. This project addresses the "link degradation" problem by investigating automated semantic note linking. By leveraging Natural Language Processing (NLP) to infer contextual relationships rather than simple keyword overlap, the system constructs a sparse, interpretable knowledge graph. This work evaluates various similarity models to ensure semantic coherence and improved usability for long-term knowledge management.
+
+Modern tools like Obsidian have popularized networked note-taking, leveraging bidirectional linking to mirror the brain’s associative nature. Research indicates that graphical visualizations can reduce cognitive load by up to 20%, as spatial mapping helps users identify latent patterns and non-linear relationships. By transforming static text into dynamic nodes, these systems facilitate better information retrieval and long-term knowledge retention. However, the manual effort required to maintain these visual graphs at scale remains a primary barrier to their long-term utility
 
 As the volume of digital notes increases, manually creating meaningful links between related concepts becomes impractical. This project investigates automated semantic note linking using Natural Language Processing techniques to infer contextual relationships between unstructured notes and represent them as a knowledge graph.
 
